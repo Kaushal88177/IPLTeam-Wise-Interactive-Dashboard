@@ -1,6 +1,7 @@
 ## Dashboard created from Meta AI, Uploaded data in Meta AI and gives command and my things abount data to create dashboard as per data, and Meta AI created Dashboard for me.
 Just Exploring AI tools that how I can use it for my Data analysis and visualizations.
 
+## Click Link for Live demo -https://kaushal88177.github.io/IPLTeam-Wise-Interactive-Dashboard/
 
 # IPLTeam-Wise-Interactive-Dashboard
 IPL matches data from 2008 to 2022, covers to all mazor visuals
